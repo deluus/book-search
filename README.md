@@ -41,4 +41,4 @@ Apollo Provider implemented to communicate with the Apollo Server.
 gitub link : https://github.com/deluus/book-search
 
 
-deployed app : 
+deployed Heroku app :  https://book-search-machine.herokuapp.com/

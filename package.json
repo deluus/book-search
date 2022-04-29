@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "if-env": "^1.0.4",
     "concurrently": "^5.1.0"
   }
 }

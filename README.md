@@ -32,6 +32,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 
-gitub link :
+Apollo Server is implemented and uses GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
+Apollo Server is applied it to the Express.js server as middleware.
+Authentication tackled by the context of a GraphQL API.
+Apollo Provider implemented to communicate with the Apollo Server.
+
+
+gitub link : https://github.com/deluus/book-search
+
 
 deployed app : 
